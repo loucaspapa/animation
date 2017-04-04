@@ -27,6 +27,7 @@ A list of links on animation (by Val Head and not only)
 * Christmas Elf! *#Codepen* [Link](http://codepen.io/chrisgannon/pen/LbgRbX?editors=1010) 
 * Scaling Responsive Animations *#CSS-Tricks* [Link](https://css-tricks.com/scaling-responsive-animations/) 
 * Orbital Resonance in SVG [Link](http://thenewcode.com/1149/Orbital-Resonance-in-SVG)
+* SVG Animations *#Book* [Link](http://shop.oreilly.com/product/0636920045335.do)
 
 
 ## CSS animation
