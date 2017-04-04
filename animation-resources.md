@@ -38,6 +38,8 @@ A list of links on animation (by Val Head and not only)
 * CSS snow fox *#codepen* [Link](http://codepen.io/davidkpiano/full/woZNbB/) 
 * Twitter's Heart Animation in full CSS [Link](https://medium.com/@OxyDesign/twitter-s-heart-animation-in-full-css-b1c00ca5b774#.86npsgyvq)
 * Animate to different end states using One set of CSS Keyframes [Link](https://css-tricks.com/animate-different-end-states-using-one-set-css-keyframes/)
+* Transitions and animations in CSS #Book [Link](https://www.safaribooksonline.com/library/view/transitions-and-animations/9781491929872/)
+* PRO CSS 3 Animations #Book [Link](https://www.amazon.ca/gp/product/1430247223)
 
 
 ## Resources
